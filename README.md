@@ -1,6 +1,6 @@
 # Bleach-Character-Management-System
 
-The "Bleach Character Management System" is a Python-based project that allows users to manage and interact with a database of characters from the popular anime series "Bleach." The system provides functionalities to add, edit, delete, and view characters in a user-friendly manner.
+The "Bleach Character Management System" is a Python-based project that allows users to manage and interact with a database of characters from the popular anime series "Bleach." The system provides functionalities to add, edit, delete, and view characters.
 
 Features:
 
